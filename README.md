@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ella
 - 👀 I’m interested in Javascript & Go
-- 🌱 I’m currently learning Go
 - 📫 elisabeta.nitura(at)gmail.com
 
 <!---
